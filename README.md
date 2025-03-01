@@ -12,7 +12,7 @@ Nous avons :
 ✅ **Automatisé la catégorisation des produits** 🤖  
 ✅ **Prédit les montants des commandes** à l’aide de modèles avancés 🔥  
 
-Grâce à cette analyse, l'entreprises concernée peut **mieux comprendre son client et optimiser sa stratégie de vente**.  
+Grâce à cette analyse, l'entreprise concernée peut **mieux comprendre son client et optimiser sa stratégie de vente**.  
 
 ---
 
