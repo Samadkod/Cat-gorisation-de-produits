@@ -34,7 +34,7 @@ Ce projet a pour but d'analyser les ventes d'un site e-commerce fonctionnant sou
 
 ✨ **Résultats clés**
 
-📍 Les ventes varient fortement selon la saisonnalité (hausse en fin d'année)
+📍 Les ventes varient fortement selon la saisonnalité (hausse des ventes en période de black friday)
 
 📍 Certains produits sont mal catégorisés (extraction et correction automatique)
 
@@ -42,3 +42,5 @@ Ce projet a pour but d'analyser les ventes d'un site e-commerce fonctionnant sou
 
 #### Outils utilisés :
 - Excel, PythonPower BI, PowerPoint
+
+- Resources: [Analyse des Ventes - Marketplace Ameublement](https://github.com/Samadkod/Cat-gorisation-de-produits/blob/main/Cat%C3%A9gorisation%20%26%20Extraction%20de%20caract%C3%A9ristiques%20de%20produits%20%C3%A0%20partir%20du%20texte..ipynb)
