@@ -19,13 +19,13 @@ Ce projet a pour but d'analyser les ventes d'un site e-commerce fonctionnant sou
 
 ✅ Proposition d'un dashboard interactif  (power BI) 🖥️
 
-🤖 **2. Catégorisation automatique**
+🤖 [**2. Catégorisation automatique**](#)
 
 ✅ Détection des erreurs de classification des produits
 
 ✅ Algorithme d'extraction des couleurs et dimensions (Regex & NLP) 🎨
 
-🔢 **3. Modélisation prédictive**
+🔢 [**3. Modélisation prédictive**](#)
 
 ✅ Modèles testés : Régression Linéaire, GLM (Poisson/Gamma), Decision Tree, Random Forest, XGBoost
 
@@ -33,7 +33,7 @@ Ce projet a pour but d'analyser les ventes d'un site e-commerce fonctionnant sou
 
 ✅ Sélection automatique du meilleur modèle 🔥
 
-✨ **Résultats clés**
+✨ [**Résultats clés**](#)
 
 📍 Les ventes varient fortement selon la saisonnalité (hausse des ventes en période de black friday)
 
