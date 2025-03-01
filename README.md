@@ -9,10 +9,10 @@
 L’objectif de ce projet est **d’optimiser l’analyse des ventes d’une marketplace e-commerce** 🛒.  
 Nous avons :  
 ✅ **Exploré les tendances des ventes** pour mieux comprendre le marché 📈  
-✅ **Automatisé la catégorisation des produits** avec de l’**intelligence artificielle** 🤖  
+✅ **Automatisé la catégorisation des produits** 🤖  
 ✅ **Prédit les montants des commandes** à l’aide de modèles avancés 🔥  
 
-Grâce à cette analyse, les entreprises peuvent **mieux comprendre leurs clients et optimiser leurs stratégies de vente**.  
+Grâce à cette analyse, l'entreprises concernée peut **mieux comprendre son client et optimiser sa stratégie de vente**.  
 
 ---
 
@@ -41,14 +41,14 @@ Grâce à cette analyse, les entreprises peuvent **mieux comprendre leurs client
 
 📍 **Les ventes explosent pendant le Black Friday** 📈  
 📍 **Certains produits étaient mal catégorisés et ont été automatiquement corrigés** ✅  
-📍 **Le modèle XGBoost a fourni les meilleures prédictions avec un faible MAE et un bon R²** 🚀  
+📍 **Le modèle  Random Forest a fourni les meilleures prédictions avec un faible MAE et un bon R²** 🚀  
 
 ---
 
 ## 🛠️ Outils utilisés  
 🔹 **Analyse des données** : Python, Excel  
 🔹 **Visualisation et reporting** : Power BI, PowerPoint  
-🔹 **Modélisation et machine learning** : Scikit-learn, Statsmodels, XGBoost  
+🔹 **Modélisation et machine learning** : Scikit-learn, Statsmodels,  Random Forest, XGBoost
 
 ---
 
