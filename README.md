@@ -13,7 +13,9 @@ Ce projet a pour but d'analyser les ventes d'un site e-commerce fonctionnant sou
 🔍 1. Visualisation des ventes
 
 ✅ Évolution des ventes dans le temps 📈
+
 ✅ Comparaison des ventes par vendeur et catégorie 📊
+
 ✅ Proposition d'un dashboard interactif  (power BI) 🖥️
 
 🤖 2. Catégorisation automatique
