@@ -4,13 +4,14 @@
   <img src="https://www.bedeo.fr/wp-content/uploads/2024/03/tof-ecommerce.jpg" width="1000" height="300" />
 </p>
 
-🚀 Objectif du projet
+🚀 **Objectif du projet**
 
 Ce projet a pour but d'analyser les ventes d'un site e-commerce fonctionnant sous un modèle de marketplace. Il permet de visualiser les tendances des ventes, identifier les anomalies de catégorisation des produits et prédire le montant des commandes en fonction de plusieurs variables.
 
-📌 Étapes du projet
 
-🔍 **1. Visualisation des ventes**
+📌 [Étapes du projet]
+
+🔍 [**1. Visualisation des ventes**]
 
 ✅ Évolution des ventes dans le temps 📈
 
