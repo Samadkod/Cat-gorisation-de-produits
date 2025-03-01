@@ -79,7 +79,7 @@ Il démontre ma capacité à :
 ## 💡 **Ce projet t’intéresse ?**  
 
 🔄 **Forke-le et améliore-le !**  
-📩 **Contacte-moi pour discuter de collaborations ou d’opportunités professionnelles !**  
+📩 **Contacte-moi pour discuter d'une collaboration ou d’opportunités professionnelles !**  
 
 ---
 
