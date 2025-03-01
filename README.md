@@ -18,7 +18,7 @@ Grâce à une analyse approfondie et à l’automatisation de processus clés, j
 
 ### 🔍 **1. Analyse des ventes : Décrypter les tendances**  
 📊 **Quels produits se vendent le mieux ? Quand et pourquoi ?**  
-- J’ai analysé l’évolution des ventes sur plusieurs mois pour identifier les pics de demande (ex. **Black Friday**).  
+- J’ai analysé l’évolution des ventes sur plusieurs mois pour identifier les pics de demande.  
 - J’ai segmenté les performances par **vendeur** et **catégorie de produits** pour cibler les opportunités d’amélioration.  
 - J’ai créé un **dashboard interactif sous Power BI** pour visualiser les données de manière claire et accessible.  
 
