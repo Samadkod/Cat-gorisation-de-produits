@@ -42,9 +42,11 @@ Grâce à une analyse approfondie et à l’automatisation de processus clés, j
 
 ## ✨ **Résultats clés**  
 
-📍 **Les ventes explosent pendant le Black Friday** : Une augmentation de **30%** par rapport à la moyenne mensuelle.  
-📍 **Correction automatique des erreurs de catégorisation** : Amélioration de **25%** de la précision des données.  
-📍 **Prédictions fiables** : Le modèle Random Forest a atteint un **MAE de 15€** et un **R² de 0.92**, permettant une anticipation précise des ventes.  
+📍 **Les ventes explosent pendant les promotion** : Une augmentation de **30%** par rapport à la moyenne mensuelle.  
+📍 **Correction automatique des erreurs de catégorisation** : Amélioration de **15.87%** de la précision des données, 
+- Avant : 42.91% des produits étaient mal classés.
+- Après : 27.04% des produits sont mal classés.
+📍 **Prédictions fiables** : Le modèle Random Forest a atteint un **MAE de 116.64€** et un **R² de 0.34928**, permettant une anticipation précise des ventes.  
 
 ---
 
