@@ -1,4 +1,4 @@
-### 📊 Analyse des Ventes - Marketplace Ameublement(#)
+### 📊 [Analyse des Ventes - Marketplace Ameublement](#)
 
 <p align="center">
   <img src="https://www.bedeo.fr/wp-content/uploads/2024/03/tof-ecommerce.jpg" width="1000" height="300" />
@@ -10,7 +10,7 @@ Ce projet a pour but d'analyser les ventes d'un site e-commerce fonctionnant sou
 
 📌 Étapes du projet
 
-🔍 1. Visualisation des ventes
+🔍 **1. Visualisation des ventes**
 
 ✅ Évolution des ventes dans le temps 📈
 
@@ -18,23 +18,27 @@ Ce projet a pour but d'analyser les ventes d'un site e-commerce fonctionnant sou
 
 ✅ Proposition d'un dashboard interactif  (power BI) 🖥️
 
-🤖 2. Catégorisation automatique
+🤖 **2. Catégorisation automatique**
 
 ✅ Détection des erreurs de classification des produits
+
 ✅ Algorithme d'extraction des couleurs et dimensions (Regex & NLP) 🎨
 
-🔢 3. Modélisation prédictive
+🔢 **3. Modélisation prédictive**
 
 ✅ Modèles testés : Régression Linéaire, GLM (Poisson/Gamma), Decision Tree, Random Forest, XGBoost
+
 ✅ Comparaison des performances avec MAE, R², Cross-validation
+
 ✅ Sélection automatique du meilleur modèle 🔥
 
-✨ Résultats clés
+✨ **Résultats clés**
 
 📍 Les ventes varient fortement selon la saisonnalité (hausse en fin d'année)
-📍 Certains produits sont mal catégorisés (extraction et correction automatique)
-📍 Le modèle XGBoost a donné les meilleurs résultats avec un MAE minimal et un bon R² 📊
 
+📍 Certains produits sont mal catégorisés (extraction et correction automatique)
+
+📍 Le modèle XGBoost a donné les meilleurs résultats avec un MAE minimal et un bon R² 📊
 
 #### Outils utilisés :
 - Excel, PythonPower BI, PowerPoint
