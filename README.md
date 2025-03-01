@@ -82,4 +82,4 @@ Il démontre ma capacité à :
 
 ### 🔗 **Liens utiles**  
 - [Mon Portfolio](https://samadkod.github.io/)  
-- [Mon profil LinkedIn][(https://www.linkedin.com/in/votre-profil-linkedin](https://www.linkedin.com/in/skodon/))  
+- [Mon profil LinkedIn][((https://www.linkedin.com/in/skodon/)
