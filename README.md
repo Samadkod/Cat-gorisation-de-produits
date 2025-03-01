@@ -1,7 +1,7 @@
 # 📊 [Analyse des Ventes - Marketplace Ameublement](https://github.com/Samadkod/Cat-gorisation-de-produits/blob/main/Cat%C3%A9gorisation%20%26%20Extraction%20de%20caract%C3%A9ristiques%20de%20produits%20%C3%A0%20partir%20du%20texte..ipynb)
 
 <p align="center">
-  <img src="https://www.bedeo.fr/wp-content/uploads/2024/03/tof-ecommerce.jpg" width="1000" height="300" />
+  <img src="https://e-tailize.com/wp-content/uploads/2023/10/top-marketplace-for-furniture-1024x683.jpg" width="1000" height="300" />
 </p>
 
 ## 🚀 **Objectif du projet**  
