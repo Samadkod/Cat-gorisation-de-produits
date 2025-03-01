@@ -46,6 +46,7 @@ Grâce à une analyse approfondie et à l’automatisation de processus clés, j
 📍 **Correction automatique des erreurs de catégorisation** : Amélioration de **15.87%** de la précision des données, 
 - Avant : 42.91% des produits étaient mal classés.
 - Après : 27.04% des produits sont mal classés.
+  
 📍 **Prédictions fiables** : Le modèle Random Forest a atteint un **MAE de 116.64€** et un **R² de 0.34928**, permettant une anticipation précise des ventes.  
 
 ---
