@@ -12,11 +12,14 @@ Ce projet a pour but d'analyser les ventes d'un site e-commerce fonctionnant sou
 
 🔍 1. Visualisation des ventes
 
-✅ Évolution des ventes dans le temps 📈✅ Comparaison des ventes par vendeur et catégorie 📊✅ Proposition d'un dashboard interactif 🖥️
+✅ Évolution des ventes dans le temps 📈
+✅ Comparaison des ventes par vendeur et catégorie 📊
+✅ Proposition d'un dashboard interactif  (power BI) 🖥️
 
 🤖 2. Catégorisation automatique
 
-✅ Détection des erreurs de classification des produits✅ Algorithme d'extraction des couleurs et dimensions (Regex & NLP) 🎨
+✅ Détection des erreurs de classification des produits
+✅ Algorithme d'extraction des couleurs et dimensions (Regex & NLP) 🎨
 
 🔢 3. Modélisation prédictive
 
@@ -26,7 +29,9 @@ Ce projet a pour but d'analyser les ventes d'un site e-commerce fonctionnant sou
 
 ✨ Résultats clés
 
-📍 Les ventes varient fortement selon la saisonnalité (hausse en fin d'année)📍 Certains produits sont mal catégorisés (extraction et correction automatique)📍 Le modèle XGBoost a donné les meilleurs résultats avec un MAE minimal et un bon R² 📊
+📍 Les ventes varient fortement selon la saisonnalité (hausse en fin d'année)
+📍 Certains produits sont mal catégorisés (extraction et correction automatique)
+📍 Le modèle XGBoost a donné les meilleurs résultats avec un MAE minimal et un bon R² 📊
 
 
 #### Outils utilisés :
