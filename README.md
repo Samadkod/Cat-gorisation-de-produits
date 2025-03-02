@@ -51,6 +51,27 @@ Grâce à une analyse approfondie et à l’automatisation de processus clés, j
 
 ---
 
+## 🚧 **Limites du projet**
+
+Malgré une amélioration significative de **15,87 %** dans la précision de la catégorisation des produits, il reste **27,04 %** de produits mal classés. Voici les principales raisons :
+
+### **1. Descriptions ambiguës ou incomplètes**  
+Certaines descriptions de produits sont trop vagues ou mal formulées. Par exemple, le mot "table" peut désigner une table de cuisine, une table de chevet, ou une table de jardin. Sans contexte supplémentaire, il est difficile de déterminer la catégorie exacte.
+
+### **2. Variations de langage**  
+Les produits peuvent être décrits avec des termes différents (ex. "chaise" vs "fauteuil"), des abréviations, ou des fautes de frappe. Ces variations rendent la correspondance exacte plus complexe.
+
+### **3. Natures complexes ou multiples**  
+Certains produits appartiennent à plusieurs catégories. Par exemple, un "canapé-lit" peut être classé comme "canapé" ou "lit". Le système actuel ne gère pas bien ces cas ambigus.
+
+### **4. Limites des règles actuelles**  
+La méthode utilisée repose sur des **règles basées sur des mots-clés**, ce qui est efficace pour des cas simples mais insuffisant pour des descriptions complexes ou peu structurées.
+
+### **5. Erreurs dans les données sources**  
+Les données d'origine peuvent contenir des erreurs, comme des catégories incorrectes ou des descriptions inexactes, ce qui impacte la qualité de la correction.
+
+---
+
 ## 🛠️ **Outils et compétences clés**  
 
 🔹 **Analyse des données** : Python, Excel  
